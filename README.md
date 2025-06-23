@@ -1,9 +1,10 @@
 # Task_1
 Library Database Schema – Summary
+
 The library database schema is designed to efficiently manage and organize data related to books, members, borrowing activity, and fines. It consists of four main tables, each serving a specific purpose:
 
 Book Table
-Stores detailed information about each book available in the library, such as book_id, title, author, genre, and publication details.
+Stores detailed information about each book available in the library, including book ID, title, author, genre, and publication details.
 ➤ Helps identify and manage the library's book collection.
 
 Member Table
